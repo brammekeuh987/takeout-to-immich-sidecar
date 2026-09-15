@@ -1,6 +1,7 @@
 # Google Photos JSON to XMP Converter
 
 This script converts metadata from JSON files in a Google Photos library (e.g., from Google Takeout) into XMP sidecar files. These sidecar files can be used by photo management software to associate metadata with the corresponding media files.
+UPDATE: attempted to also recognize supplemental-metadata.json - files
 
 ## Features
 
